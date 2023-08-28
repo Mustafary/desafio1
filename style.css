@@ -1,0 +1,66 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  
+  text-align: center;
+  margin: 0%;
+}
+
+#mulher{
+ 
+  width: 592px;
+  margin: 0 auto 32px;
+
+}
+
+#mulher img{
+  margin-bottom: 32px;
+
+}
+
+h1, #footer { 
+  font-family: 'Dosis', sans-serif;
+  font-size: 32px;
+  line-height:  56px;
+  font-weight: normal;
+
+  margin-bottom: 32px;
+}
+
+h1{
+  font-weight: bold;
+  
+}
+
+h1 spam{
+  color: #EE24FF;
+}
+
+p {
+  color:#828282 ;
+}
+
+
+p strong {
+  color: #3F3D56;
+}
+
+#footer {
+  font-size: 15px;
+  color: #3F3D56;
+  
+}
+
+#footer a + a {
+  
+  margin-left: 28px;
+  border-top: 64px;
+}
+
+
+#wave {
+  position: absolute;
+  bottom: 0%;
+  right: 0%;
+}
+
+
